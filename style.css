@@ -1,0 +1,28 @@
+.question
+{
+   background-color: lawngreen;
+}
+pre 
+{
+    color: blue;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.one
+{
+    font-size: 30px;
+    color: red;
+}
+.two
+{
+    font-size: 30px;
+    color: red;
+}
+h1 
+{
+    display: flex;
+    justify-content: center;
+    background-image: radial-gradient(blue,red);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
